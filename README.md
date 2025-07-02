@@ -39,7 +39,7 @@ Using Power BI, this analysis uncovers critical insights and provides actionable
 |----------------------------------|----------------------------------------------|
 | `Palmoria Group emp-data.csv`   | Cleaned employee dataset                     |
 | `Bonus Rules.csv`               | Department-based bonus structure             |
-| `Palmoria HR Dashboard.pbix`    | Final Power BI dashboard                     |
-| `Palmoria_HR_Report_Summary.pdf`| Executive summary of insights & KPIs         |
+| `Palmoria DSA CAPSTONE.pbix`    | Final Power BI dashboard and Report                   |
+
 
 
